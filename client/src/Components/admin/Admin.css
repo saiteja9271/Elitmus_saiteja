@@ -1,0 +1,49 @@
+.adminn{
+    width:100vw;
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+}
+.add
+{
+       padding: 5px 30px 5px 30px;
+        backdrop-filter: blur(3.5px);
+        -webkit-backdrop-filter: blur(3.5px);
+        border-radius: 10px;
+        border: 1px solid #fff;
+}
+.textclr
+{
+    color: #fff;
+    font-size: small;
+}
+.textclrL{
+    color: #fff;
+    font-weight: 750;
+    font-size: larger;
+    z-index: 10;
+    flex: 1;
+    margin-top: 10px;
+}
+#EmailInput,#exampleInputPassword1,#exampleInputPassword2,#UserInput{
+    background: rgba(255,255,255,0.2);
+    border: 1px solid white;
+    color: #fff;
+}
+#EmailInput::placeholder,#exampleInputPassword1::placeholder,#exampleInputPassword2::placeholder,#UserInput::placeholder{
+    color: #fff;
+  }
+  .btn{
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    border: 1px solid #fff;
+    color: #fff;
+  }
+  .btn:hover{
+    backdrop-filter: blur(3.5px);
+    -webkit-backdrop-filter: blur(3.5px);
+    border: 1px solid #fff;
+    color: grey;
+  }

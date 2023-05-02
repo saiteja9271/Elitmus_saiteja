@@ -1,0 +1,12 @@
+.sid{
+    width:100vw;
+    margin: 0 auto;
+    color:#fff;
+    background-color: black;
+}
+.slider{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    color:#fff;
+}

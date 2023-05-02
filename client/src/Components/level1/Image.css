@@ -1,0 +1,27 @@
+.image{
+    height:220px;
+    aspect-ratio: 1;
+    background-color: #1b1b1b;
+    /* border:1px solid red; */
+    display: flex;
+    overflow-x: auto;
+    width:100vw;
+    align-items: center;
+    overflow-y: hidden;
+}
+.image::-webkit-scrollbar{
+    width:0px;
+}
+.image .imgh img{
+    width:190px;
+    height:190px;
+
+}
+.image .imgh{
+    min-width: 200;
+    /* line-height: 190px; */
+    height:200;
+    margin-right: 10px;
+    /* text-align: center; */
+    
+}

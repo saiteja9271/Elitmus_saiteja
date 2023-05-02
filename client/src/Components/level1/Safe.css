@@ -1,0 +1,12 @@
+.safe{
+   width:100vw;
+}
+.imgwidth{
+    height:250px;
+}
+@media (max-width: 430px) {
+    .imgwidth{
+        width:330px;
+    }
+  }
+  
