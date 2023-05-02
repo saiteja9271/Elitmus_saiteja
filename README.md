@@ -1,12 +1,18 @@
 # TREASURE HUNT
 
 This is the Treasure Hunt website where users can win the treasure by finding and locating the clues hidden in the images as question and/or answer the questions. 
-Here we have 6 riddles to be solved.(For a 6-digit pin)
-Each of its answer is based on the pictures given.
-Answer from the picture finds you the way to get each digit of the pin
-Every riddle has a clue but beware of loosing your score by using it
-Overall you will get 3 tries, this can decide your final accuracy.
-Hope everthing works out for you, GOOD LUCK!
+
+1.Here we have 6 riddles to be solved.(For a 6-digit pin)
+
+2.Each of its answer is based on the pictures given.
+
+3.Answer from the picture finds you the way to get each digit of the pin
+
+4.Every riddle has a clue but beware of loosing your score by using it
+
+5.Overall you will get 3 tries, this can decide your final accuracy.
+
+6.Hope everthing works out for you, GOOD LUCK!
 
 # DEAD ENDS
 There are two dead ends. 
@@ -22,7 +28,7 @@ If you are a new user you have to create account or if you already have an accou
 # ADMIN PANEL LOGIN CREDENTIALS
       ADMIN NAME     : sai
       ADMIN PASSWORD : elitmus-admin
-# ADMINDASHBOARD 
+# ADMIN DASHBOARD 
 Admin dashborad contains data and performance  of all users,adnd also analytical calculations.
 
 # TECHNOLOGIES USED
