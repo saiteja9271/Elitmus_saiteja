@@ -26,7 +26,7 @@ The result will display after clicking the submit button.Result card contains al
 If you are a new user you have to create account or if you already have an account you simply need to login.
 
 # ADMIN PANEL LOGIN CREDENTIALS
-      ADMIN NAME     : sai
+      ADMIN Email     : sai@gmail.com
       ADMIN PASSWORD : elitmus-admin
 # ADMIN DASHBOARD 
 Admin dashborad contains data and performance  of all users,adnd also analytical calculations.
